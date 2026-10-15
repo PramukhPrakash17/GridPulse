@@ -1,10 +1,10 @@
-package com.gridpulse.gridpulse;
+package com.gridpulse.ingestionservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class GridPulseApplicationTests {
+class IngestionServiceApplicationTests {
 
     @Test
     void contextLoads() {

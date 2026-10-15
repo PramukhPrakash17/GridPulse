@@ -1,13 +1,13 @@
-package com.gridpulse.gridpulse;
+package com.gridpulse.ingestionservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GridPulseApplication {
+public class IngestionServiceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(GridPulseApplication.class, args);
+        SpringApplication.run(IngestionServiceApplication.class, args);
     }
 
 }
