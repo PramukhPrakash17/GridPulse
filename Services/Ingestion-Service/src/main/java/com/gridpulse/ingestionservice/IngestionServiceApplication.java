@@ -8,6 +8,7 @@ public class IngestionServiceApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(IngestionServiceApplication.class, args);
+        System.out.println("HareKrishna!");
     }
 
 }
